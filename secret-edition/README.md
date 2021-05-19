@@ -37,6 +37,5 @@ Sports and Leisure questions are about articles on these subjects published by J
 - [Standard Edition](../standard-edition/README.md)
 - [Extended Edition](../extended-edition/README.md)
 - [Historical Edition](../historical-edition/README.md)
-- [Secret Edition](../secret-edition/README.md)
 
 [<< Back to home](../README.md)
