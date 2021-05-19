@@ -1,4 +1,4 @@
-# JW Trivia - Standard Edition
+# JW Trivia - Secret Edition
 
 A trivia game to check your knowledge of Jehovah's Witnesses' beliefs and customs.
 
